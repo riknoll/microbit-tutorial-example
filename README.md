@@ -1,14 +1,3 @@
-# Tutorial
-
-## Step 1
-
-Do nothing
-
-## Step 2
-
-You did it!
-
-
 > Open this page at [https://riknoll.github.io/microbit-tutorial-example/](https://riknoll.github.io/microbit-tutorial-example/)
 
 ## Use as Extension
